@@ -826,6 +826,28 @@
         "wideArithmetic": false
       }
     },
+    "soup": {
+      "url": "https://github.com/calamity-inc/Soup/tree/senpai/CLI#soup-cli",
+      "logo": "/images/soup.png",
+      "category": "Standalone Runtimes",
+      "features": {
+        "bulkMemory": true,
+        "multiValue": true,
+        "mutableGlobals": true,
+        "referenceTypes": true,
+        "saturatedFloatToInt": true,
+        "signExtensions": true,
+        "memory64": true,
+        "multiMemory": ["flag", "Compile with `-D SOUP_WASM_MULTI_MEMORY=true`."],
+        "extendedConst": ["flag", "Compile with `-D SOUP_WASM_EXTENDED_CONST=true`."],
+        "tailCall": ["flag", "Compile with `-D SOUP_WASM_TAIL_CALL=true`."],
+        "exceptionsFinal": ["flag", "Compile with `-D SOUP_WASM_EXCEPTIONS=true`."],
+        "bigInt": null,
+        "branchHinting": null,
+        "customAnnotationSyntaxInTheTextFormat": null,
+        "typeReflection": null
+      }
+    },
     "watr": {
       "url": "https://github.com/dy/watr",
       "logo": "/images/watr.svg",
