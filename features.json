@@ -845,7 +845,10 @@
         "bigInt": null,
         "branchHinting": null,
         "customAnnotationSyntaxInTheTextFormat": null,
-        "typeReflection": null
+        "esmIntegration": null,
+        "typeReflection": null,
+        "compilationHints": null,
+        "numericValuesInWat": null
       }
     },
     "watr": {
