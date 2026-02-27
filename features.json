@@ -845,6 +845,7 @@
         "bigInt": null,
         "branchHinting": null,
         "customAnnotationSyntaxInTheTextFormat": null,
+        "webContentSecurityPolicy": null,
         "esmIntegration": null,
         "typeReflection": null,
         "compilationHints": null,
