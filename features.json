@@ -849,7 +849,8 @@
         "esmIntegration": null,
         "typeReflection": null,
         "compilationHints": null,
-        "numericValuesInWat": null
+        "numericValuesInWat": null,
+        "relaxedDeadCodeValidation": null
       }
     },
     "watr": {
