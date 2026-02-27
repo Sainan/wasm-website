@@ -826,7 +826,7 @@
         "wideArithmetic": false
       }
     },
-    "soup": {
+    "Soup": {
       "url": "https://github.com/calamity-inc/Soup/tree/senpai/CLI#soup-cli",
       "logo": "/images/soup.png",
       "category": "Standalone Runtimes",
